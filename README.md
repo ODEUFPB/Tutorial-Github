@@ -38,7 +38,7 @@ Essa é a etapa final, durante ele o usuário simplesmente manda as suas modific
 
 ## Vídeos tutoriais no youtube produzidos pelo ODE
 
-### Windows (ou MacOS)
+### Windows (ou MacOS) - GitHub Desktop
 
 ### Linux (via Terminal)
 
