@@ -45,7 +45,7 @@ O GitHub Desktop é um software de computador(desenvolvido com a biblioteca elec
  
  
 
-[Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
+|             [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio")            |
  
 
 ### Linux (via Terminal)
