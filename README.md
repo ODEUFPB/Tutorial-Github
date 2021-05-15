@@ -9,6 +9,30 @@ Para acessar a documentação completa oficial do GitHub clique [aqui](https://d
 
 Para fazer o download do GitHub desktop clique [aqui](https://desktop.github.com/) (tutorial windows)
 
+## Sumário
+
+* ### [Introdução](#Instalação)
+
+* ### [Commit](#Instalação)
+    
+* ### [Branch](#links)
+
+* ### [Pull request](#links)
+
+* ### [Push](#links)
+
+* ### [Vídeos tutoriais no youtube produzidos pelo ODE](#links)
+    * #### [Windows (ou MacOS) - GitHub Desktop](#piplist)
+    * #### [Linux (via Terminal)](#interpython)
+    * #### [Navegador (qualquer sistema)](#piplist)
+
+
+
+### 
+
+### Navegador (qualquer sistema)
+
+
 
 ## Introdução ao Git e ao GitHub
 
@@ -16,7 +40,7 @@ o Git é um sistema de controle de versão desenvolvido para possibilitar o trab
 
 #### Vamos conhecer como essa ferramenta funciona?
 
-### Criação do Repositório
+### Criando um Repositório
 O repositório é o local em que o nosso projeto vai ficar, cabendo a escolha dele ao usuário durante o seu processo de criação. No GitHub, o usário pode escolher também: a privacidade do projeto (público/privado) podendo ser modificada posteriormente; se vai optar por um readme, que é um arquivo markdown(.md) contendo uma descrição do projeto e que vai ser mostrado abaixo das pastas do repositório para situar o repositório; além de outras opções, como o git-ignore - extensões que o github deve ignorar mudanças.
 
 Após a criação do seu repositório, vamos inserir os seus arquivos nele, e isso é feito de maneira intuitiva, simplesmente arrastando os arquivos para a pasta do seu repositório, seja no seu computador(se você clonou um repositório da internet ou está criando um pela primeira vez) ou anexando-os diretamente na pasta da nuvem.
