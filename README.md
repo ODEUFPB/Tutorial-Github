@@ -40,6 +40,6 @@ Essa é a etapa final, durante ele o usuário simplesmente manda as suas modific
 
 ### Windows (ou MacOS)
 
-### Linux
+### Linux (via Terminal)
 
 ### Navegador (qualquer sistema)
