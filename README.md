@@ -11,9 +11,9 @@ Para fazer o download do GitHub desktop clique [aqui](https://desktop.github.com
 
 ## Sumário
 
-* ### [Introdução](#Instalação)
+* ### [Introdução](#intro)
 
-* ### [Commit](#Instalação)
+* ### [Commit](#criando-repositorio)
     
 * ### [Branch](#links)
 
@@ -27,13 +27,13 @@ Para fazer o download do GitHub desktop clique [aqui](https://desktop.github.com
     * #### [Navegador (qualquer sistema)](#piplist)
 
 
-## Introdução ao Git e ao GitHub
+## Introdução ao Git e ao GitHub <a name="intro"></a>
 
 o Git é um sistema de controle de versão desenvolvido para possibilitar o trabalho colaborativo entre programadores, destacando-se por ser simples e rápido. A sua primeira utilzação na criação de um kernel linux, uma vez que ele foi criado e projeto por Linus Torvalds(criador do linux). Uma das mais famosas empresas a possibilitar o uso do Git para os usuários é o GitHub, possibilitando a criação de projetos púbicos (qualquer pessoa tem acesso ao conteúdo) ou privados (apenas pessoas autorizadas podem ver); mas vale destacar que existem diversas outras empresas utilizadas no mercado para utilização do git, como a Bickbucket e o GitLab. Essas empresas basicamente disponibilizam uma pasta na nuvem para que o usuário realize o trabalho do git.
 
 #### Vamos conhecer como essa ferramenta funciona?
 
-### Criando um Repositório
+### Criando um Repositório <a name="criando-repositorio"></a>
 O repositório é o local em que o nosso projeto vai ficar, cabendo a escolha dele ao usuário durante o seu processo de criação. No GitHub, o usário pode escolher também: a privacidade do projeto (público/privado) podendo ser modificada posteriormente; se vai optar por um readme, que é um arquivo markdown(.md) contendo uma descrição do projeto e que vai ser mostrado abaixo das pastas do repositório para situar o repositório; além de outras opções, como o git-ignore - extensões que o github deve ignorar mudanças.
 
 Após a criação do seu repositório, vamos inserir os seus arquivos nele, e isso é feito de maneira intuitiva, simplesmente arrastando os arquivos para a pasta do seu repositório, seja no seu computador(se você clonou um repositório da internet ou está criando um pela primeira vez) ou anexando-os diretamente na pasta da nuvem.
