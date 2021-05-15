@@ -41,13 +41,7 @@ Essa é a etapa final, durante ele o usuário simplesmente manda as suas modific
 ### Windows (ou MacOS) - GitHub Desktop
 O GitHub Desktop é um software de computador(desenvolvido com a biblioteca electron em JavaScript) de código aberto, atualmente disponível para Windows e MacOS, cujo objetivo é facilitar e melhorar a experiência de utilização do GitHub, nele é possível ter acesso a todas as etapas necessárias da feramente Git, porém de uma maneira descomplicada e simples de ser utilizada. No vídeo tutorial abaixo, é mostrada a utilização do GitHub de maneira prática no Windows10 (é análogo no MacOS), destacando-se os conceitos anteriormente apresentados e como eles são utilizados no software.  
 
-<!-- [<img src="pictures/thumb1.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw) -->
- 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="pictures/thumb1.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
- 
-
+[<img src="pictures/thumb1.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
 | [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
  
 
