@@ -65,4 +65,10 @@ O GitHub Desktop é um software de computador(desenvolvido com a biblioteca elec
 
 ### Linux (via Terminal) <a name="metodo2"></a>
 
+[<img src="pictures/thumb2.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
+| [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
+
 ### Navegador (qualquer sistema) <a name="metodo3"></a>
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos (issues, pull request).
+[<img src="pictures/thumb3.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
+| [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
