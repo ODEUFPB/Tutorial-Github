@@ -77,5 +77,6 @@ O GitHub pode ser acessado praticamente de qualquer dispostivo com acesso a inte
 [<img src="pictures/thumb3.png" >](https://www.youtube.com/watch?v=OUXHaj6kdb0)
 | [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=OUXHaj6kdb0 "obrigatorio") |
 
-visite as nossas redes sociais
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/ODEUFPB/)
+#### visite as nossas redes sociais:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ODEUFPB)](https://github.com/ODEUFPB/)
