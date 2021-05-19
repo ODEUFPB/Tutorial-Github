@@ -80,3 +80,5 @@ O GitHub pode ser acessado praticamente de qualquer dispostivo com acesso a inte
 #### visite as nossas redes sociais:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ODEUFPB)](https://github.com/ODEUFPB/)
+
+[![Github Badge](pictures/ico_insta)](https://www.instagram.com/extensaocear/)
