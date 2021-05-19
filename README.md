@@ -1,6 +1,6 @@
 <h1 align="center">Tutorial GitHub</h1>
 
-Nesse material, vamos apresentar as principais ferramentas e conceitos envolvendo o git aplicadas ao GitHub. A confecção desse material teve como base o manual prático do _GitHub_ além da experiência prática dos estudantes.
+Nesse material, vamos apresentar as principais ferramentas e conceitos envolvendo o git aplicados ao GitHub. A confecção desse material teve como base o manual prático do _GitHub_ além da experiência prática dos estudantes.
 
 
 Para acessar o site oficial do GitHub clique [aqui](https://github.com/)
