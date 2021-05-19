@@ -79,5 +79,5 @@ O GitHub pode ser acessado praticamente de qualquer dispostivo com acesso a inte
 
 #### visite as nossas redes sociais:
 
-[<img src = "https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ODEUFPB">](https://github.com/ODEUFPB/) 
+[<img src = "https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ODEUFPB" width="120" height="28">](https://github.com/ODEUFPB/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/extensaocear/) 
