@@ -26,7 +26,7 @@ Para fazer o download do GitHub desktop clique [aqui](https://desktop.github.com
     * #### [Linux (via Terminal)](#metodo2)
     * #### [Navegador (qualquer sistema)](#metodo3)
 
-* ### [VRedes Sociais do ODE](#social-media)
+* ### [Redes Sociais do ODE](#social-media)
 
 ## Introdução ao Git e ao GitHub <a name="intro"></a>
 
