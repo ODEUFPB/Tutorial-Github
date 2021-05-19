@@ -30,7 +30,9 @@ Para fazer o download do GitHub desktop clique [aqui](https://desktop.github.com
 
 ## Introdução ao Git e ao GitHub <a name="intro"></a>
 
-o Git é um sistema de controle de versão desenvolvido para possibilitar o trabalho colaborativo entre programadores, destacando-se por ser simples e rápido. A sua primeira utilzação na criação de um kernel linux, uma vez que ele foi criado e projeto por Linus Torvalds(criador do linux). Uma das mais famosas empresas a possibilitar o uso do Git para os usuários é o GitHub, possibilitando a criação de projetos púbicos (qualquer pessoa tem acesso ao conteúdo) ou privados (apenas pessoas autorizadas podem ver); mas vale destacar que existem diversas outras empresas utilizadas no mercado para utilização do git, como a Bickbucket e o GitLab. Essas empresas basicamente disponibilizam uma pasta na nuvem para que o usuário realize o trabalho do git.
+o Git é um sistema de controle de versão desenvolvido para possibilitar o trabalho colaborativo entre programadores, destacando-se por ser simples e rápido. A sua primeira marcante utilzação foi na criação de um kernel linux, uma vez que ele foi criado e projetado por Linus Torvalds(criador do linux). Uma das mais famosas empresas a possibilitar o uso do Git para os usuários é o GitHub, possibilitando a criação de projetos púbicos (qualquer pessoa tem acesso ao conteúdo) ou privados (apenas pessoas autorizadas podem ver). Em uma visão geral, o gitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. Elex é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos (issues, pull request).
+
+Vale destacaa ainda que existem diversas outras empresas presentes no mercado para utilização do git, como o Bickbucket e o GitLab. Essas empresas basicamente disponibilizam uma pasta na nuvem para que o usuário realize a utilização do git, de forma semelhante ao GitHub. 
 
 #### Vamos conhecer como essa ferramenta funciona?
 
@@ -64,11 +66,13 @@ O GitHub Desktop é um software de computador(desenvolvido com a biblioteca elec
  
 
 ### Linux (via Terminal) <a name="metodo2"></a>
+O protocolo Git surgiu nos sistemas linux, então é natural que nos primórdios a sua utilização fosse exclusivamente feita via terminal, porém apesar de terem surgido formas mais práticas de interagir com o Git como é o caso do GitHub, ainda é amplamente realizada a sua utilização via terminal tendo em vista a facilidade da criação de scripts que realizam o upload de arquivos com apenas um comando (pode-se dizer também é uma forma mais clássica). 
 
 [<img src="pictures/thumb2.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
 | [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
 
 ### Navegador (qualquer sistema) <a name="metodo3"></a>
-GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos (issues, pull request).
+O GitHub pode ser acessado praticamente de qualquer dispostivo com acesso a internet, possibilitando que o usuário faça uploads ou observe commits/mudanças no seu repositório praticamente de qualquer tipo de dispositivo móvel. É importante destacar porém que existe umm limite de upload utilizando-se o GitHub direto do navegador, o que pode ser um problema em projetos maiores, necessitando a atualização via terminal ou no App GitHub Desktop.
+
 [<img src="pictures/thumb3.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
 | [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
