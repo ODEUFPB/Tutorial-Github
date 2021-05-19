@@ -68,11 +68,11 @@ O GitHub Desktop é um software de computador(desenvolvido com a biblioteca elec
 ### Linux (via Terminal) <a name="metodo2"></a>
 O protocolo Git surgiu nos sistemas linux, então é natural que nos primórdios a sua utilização fosse exclusivamente feita via terminal, porém apesar de terem surgido formas mais práticas de interagir com o Git como é o caso do GitHub, ainda é amplamente realizada a sua utilização via terminal tendo em vista a facilidade da criação de scripts que realizam o upload de arquivos com apenas um comando (pode-se dizer também é uma forma mais clássica). 
 
-[<img src="pictures/thumb2.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
+[<img src="pictures/thumb2.png" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
 | [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
 
 ### Navegador (qualquer sistema) <a name="metodo3"></a>
 O GitHub pode ser acessado praticamente de qualquer dispostivo com acesso a internet, possibilitando que o usuário faça uploads ou observe commits/mudanças no seu repositório praticamente de qualquer tipo de dispositivo móvel. É importante destacar porém que existe umm limite de upload utilizando-se o GitHub direto do navegador, o que pode ser um problema em projetos maiores, necessitando a atualização via terminal ou no App GitHub Desktop.
 
-[<img src="pictures/thumb3.jpg" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
+[<img src="pictures/thumb3.png" >](https://www.youtube.com/watch?v=z0nHNl_YzGw)
 | [Clique aqui para acessar o vídeo](https://www.youtube.com/watch?v=z0nHNl_YzGw "obrigatorio") |
