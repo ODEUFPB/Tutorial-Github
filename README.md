@@ -26,7 +26,7 @@ Para fazer o download do GitHub desktop clique [aqui](https://desktop.github.com
     * #### [Linux (via Terminal)](#metodo2)
     * #### [Navegador (qualquer sistema)](#metodo3)
 
-
+* ### [VRedes Sociais do ODE](#social-media)
 
 ## Introdução ao Git e ao GitHub <a name="intro"></a>
 
@@ -79,7 +79,7 @@ O GitHub pode ser acessado praticamente de qualquer dispostivo com acesso a inte
 
 <hr>
 
-#### visite as nossas redes sociais:
+#### visite as nossas redes sociais: <a name="social-media"></a>
 
 [<img src = "https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ODEUFPB"  height="28" width="auto">](https://github.com/ODEUFPB/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/extensaocear/) 
